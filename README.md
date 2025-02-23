@@ -21,13 +21,11 @@ A fully responsive **Amazon Clone** built using **HTML, CSS, and Font Awesome**,
 
  ✅ How to Run
 
-1. Clone the repository:
+ Clone the repository:
    bash
    git clone https://github.com/your-username/amazon-clone.git
    
-2. Navigate to the project folder:
-   bash
-   cd amazon-clone
+
    
 
 
