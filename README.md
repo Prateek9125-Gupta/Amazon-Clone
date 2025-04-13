@@ -19,12 +19,7 @@ A fully responsive **Amazon Clone** built using **HTML, CSS, and Font Awesome**,
 - CSS3 – Styling & Responsiveness
 - Font Awesome – Icons
 
- ✅ How to Run
 
- Clone the repository:
-   bash
-   git clone https://github.com/your-username/amazon-clone.git
-   
 
    
 
